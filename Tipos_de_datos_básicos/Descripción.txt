@@ -1,0 +1,1 @@
+Mediante uso de datos basicos o primitivos se realizara en lenguaje C, algunos ejercicos.
